@@ -1,5 +1,6 @@
 import streamlit
 
-streamlit.title('Foo')
+streamlit.title('Title')
 
-streamlit.text('Bar')
+streamlit.header('Header')
+streamlit.text('Text')
